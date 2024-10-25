@@ -1,2 +1,3 @@
 .doc_venv/*
 .doc_venv/
+.dvc_venv/
